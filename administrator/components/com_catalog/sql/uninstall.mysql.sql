@@ -1,0 +1,1 @@
+DROP TABLE `#__catalog_categories`,`#__catalog_post`,`#__catalog_types`;
