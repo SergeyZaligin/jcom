@@ -41,4 +41,6 @@ $input = jFactory::getApplication()->input;
  */
 $controller->execute($input->getCmd('task', 'display'));
 
+// сабконтроллер устанавливает редирект, поэтому нужно его вызвать
+$controller->redirect();
 //ninja($app);
