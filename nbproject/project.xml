@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>a.loc</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>адресной</word>
+            <word>виду</word>
+            <word>входа</word>
+            <word>задача</word>
+            <word>задачу</word>
+            <word>иначе</word>
+            <word>контроллеру</word>
+            <word>метод</word>
+            <word>один</word>
+            <word>Передаем</word>
+            <word>передана</word>
+            <word>раз</word>
+            <word>точке</word>
+            <word>управление</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
