@@ -34,6 +34,7 @@ class CatalogViewTypes extends JViewLegacy {
     protected function setDocument() {
         // Возвращаем обьект класс JDocument
         $document = JFactory::getDocument();
+        $document->setTitle(JText::_('COM_CATALOG_MANAGER_TYPES_TITLE'));
         $document->addStyleSheet(JUri::root(TRUE) . '/media/com_catalog/css/style.css');
     }
 
